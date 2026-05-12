@@ -22,7 +22,7 @@ main {
 
 /* Sidebar Styles */
 .sidebar {
-  width: 280px;
+  width: 380px;
   background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
   color: white;
   padding: 2rem;
@@ -180,12 +180,12 @@ main {
 /* Main Content */
 .main-content {
   flex: 1;
-  margin-left: 280px;
+  margin-left: 380px;
   padding: 2rem;
-  width: calc(100% - 280px);
+  width: calc(100% - 380px);
 }
 
-/* Navbar */
+/* Navbar
 .navbar {
   display: flex;
   justify-content: center;
@@ -205,6 +205,10 @@ main {
   font-weight: 500;
   transition: all 0.3s ease;
   position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  justify-content: center;
 }
 
 .navbar-link:hover {
@@ -214,9 +218,40 @@ main {
 .navbar-link.active {
   color: #2575fc;
   border-bottom: 2px solid #2575fc;
-}
+} */
 
 /* Pages */
+
+
+.navbar-list {
+  display: flex;
+  list-style: none; 
+  gap: 20px;        
+  justify-content: center; 
+  align-items: center; 
+  padding: 0;
+}
+
+
+.navbar-item {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+
+.navbar-link {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 10px 15px;
+  font-size: 1rem;
+}
+
+.navbar-link.active {
+  font-weight: bold;
+}
+
 article {
   display: none;
   animation: fadeIn 0.5s ease;
@@ -224,15 +259,6 @@ article {
 
 article.active {
   display: block;
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
-/* About Section */
-.about-text p {
   font-size: 1.1rem;
   line-height: 1.8;
   margin-bottom: 1.5rem;
