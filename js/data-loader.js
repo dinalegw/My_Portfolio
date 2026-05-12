@@ -2,101 +2,117 @@
 
 class DataLoader {
     constructor() {
-        this.data = {
-            about: {
-                bio: "I am a passionate Software Engineer with expertise in full-stack development, blockchain technology, and scalable backend systems. I love building innovative solutions that solve real-world problems and push the boundaries of what's possible with technology."
-            },
+  this.data = {
+    about: {
+      bio: "OBRIAN🛠️🚀 dinalegw · he/him\nGo Developer focused on CLI tools, backend systems, and solving problems. Learning deeply. Shipping consistently.\n\nChemical Engineering graduate with expertise in software development, AI training, and project execution. Skilled in Go, Python, and GitHub workflows. Experienced in leading projects, mentoring peers, and delivering innovative solutions under tight deadlines. Strong background in leadership, volunteering, and technical problem-solving.",
+    },
             services: [
                 {
                     icon: "code-outline",
-                    title: "Web Development",
-                    description: "Building responsive, high-performance websites and web applications using modern frameworks and best practices."
+                    title: "Software Development",
+                    description: "Building and deploying web applications using Go, Python, Next.js, Netlify, and Vercel."
                 },
                 {
-                    icon: "logo-blockchain",
-                    title: "Blockchain Development",
-                    description: "Creating decentralized applications (dApps), smart contracts, and blockchain solutions for various industries."
+                    icon: "robot-outline",
+                    title: "AI Training & Development",
+                    description: "Applying machine learning concepts to real-world projects and mentoring peers in AI technologies."
                 },
                 {
-                    icon: "server-outline",
-                    title: "Backend Systems",
-                    description: "Designing and implementing scalable, secure backend architectures with databases, APIs, and cloud services."
+                    icon: "git-branch-outline",
+                    title: "Project Management & Leadership",
+                    description": "Leading projects, optimizing workflows, and maintaining open-source projects on GitHub under tight deadlines."
                 },
                 {
-                    icon: "mobile-outline",
-                    title: "Mobile Applications",
-                    description: "Developing cross-platform mobile apps that deliver seamless user experiences on iOS and Android devices."
+                    icon: "people-outline",
+                    title: "Mentoring & Training",
+                    description": "Training peers in software engineering, AI, and data handling through fellowship programs."
                 },
                 {
-                    icon: "wifi-outline",
-                    title: "IoT Solutions",
-                    description: "Building interconnected systems and devices that communicate and exchange data for smart environments."
+                    icon: "analytics-outline",
+                    title: "Data Analysis & Research",
+                    description": "Conducting product research, competitor analysis, and producing technical documentation."
                 }
             ],
             skills: [
-                "JavaScript/TypeScript",
+                "Go",
                 "Python",
-                "Solidity",
-                "React/Vue/Angular",
-                "Node.js/Express",
-                "PostgreSQL/MongoDB",
-                "AWS/Docker/Kubernetes",
-                "Git/CI-CD",
-                "RESTful APIs",
-                "GraphQL"
+                "JavaScript",
+                "Next.js",
+                "GitHub",
+                "Netlify",
+                "Vercel",
+                "AI Training",
+                "Data Analysis",
+                "Project Management",
+                "Team Collaboration",
+                "Communication",
+                "Problem Solving",
+                "Leadership"
             ],
             resume: {
                 education: [
                     {
-                        degree: "Bachelor of Science in Computer Science",
-                        institution: "University of Technology",
-                        year: "2018 - 2022",
-                        description: "Focused on software engineering principles, algorithms, and data structures."
+                        degree: "B.Eng. Chemical Engineering",
+                        institution: "Federal University of Technology, Minna",
+                        year: "2016 - 2024",
+                        description: "Strong background in technical problem-solving and leadership."
+                    },
+                    {
+                        degree: "WASSCE",
+                        institution: "Government Day Secondary School Karu",
+                        year: "2016",
+                        description: "West African Senior School Certificate Examination"
                     }
                 ],
                 experience: [
                     {
-                        position: "Senior Software Engineer",
-                        company: "Tech Innovations Inc.",
-                        year: "2022 - Present",
-                        description: "Led development of blockchain-based solutions and microservices architecture."
+                        position: "Software Developer / Project Contributor",
+                        company: "Freelance & Fellowship Programs",
+                        year: "2025 - Present",
+                        description: "• Built and deployed web applications using Go, Next.js, Netlify, and Vercel.\n• Delivered AI-driven projects under tight deadlines.\n• Optimized workflows to improve performance and user experience.\n• Maintained open-source projects on GitHub."
                     },
                     {
-                        position: "Full Stack Developer",
-                        company: "Web Solutions Ltd.",
-                        year: "2020 - 2022",
-                        description: "Developed full-stack applications for clients across various industries."
+                        position: "AI Fellowship Trainee",
+                        company: "Learn2Earn Fellowship",
+                        year: "2026 - Present",
+                        description: "• Trained in AI, data handling, and software engineering.\n• Applied machine learning concepts to real-world projects.\n• Mentored peers and presented technical solutions."
+                    },
+                    {
+                        position: "Industrial Training (SIWES)",
+                        company: "Chanchaga Water Works",
+                        year: "May - Oct 2021",
+                        description: "• Conducted product research and competitor analysis.\n• Produced technical documentation and client-focused reports."
                     }
                 ]
             },
             projects: [
                 {
                     id: 1,
-                    title: "Decentralized Exchange (DEX)",
-                    category: "Web3",
+                    title: "Vowel Capitalizer CLI Tool",
+                    category: "CLI Tools",
                     image: "./assets/images/project1.jpg",
-                    description: "A peer-to-peer cryptocurrency exchange built on Ethereum blockchain with smart contracts for automated trading.",
-                    technologies: ["Solidity", "React", "Web3.js", "Node.js"],
-                    link: "#",
-                    github: "#"
+                    description: "A high-performance Go text transformation tool that converts vowels to uppercase and consonants to lowercase, optimized for processing large texts and ebooks.",
+                    technologies: ["Go", "GitHub", "CLI"],
+                    link: "https://github.com/dinalegw/VowelCapitalizer",
+                    github: "https://github.com/dinalegw/VowelCapitalizer"
                 },
                 {
                     id: 2,
-                    title: "E-commerce Platform",
-                    category: "Web2",
+                    title: "Personal Portfolio Website",
+                    category: "Web Development",
                     image: "./assets/images/project2.jpg",
-                    description: "A full-featured e-commerce platform with payment integration, inventory management, and user authentication.",
-                    technologies: ["React", "Node.js", "PostgreSQL", "Stripe"],
-                    link: "#",
-                    github: "#"
+                    description: "A responsive personal portfolio website showcasing skills, projects, and professional experience with smooth animations and modern design.",
+                    technologies: ["HTML5", "CSS3", "JavaScript", "Ion Icons"],
+                    link: "https://github.com/dinalegw/My_Portfolio",
+                    github: "https://github.com/dinalegw/My_Portfolio"
                 },
                 {
                     id: 3,
-                    title: "Smart Home IoT System",
-                    category: "IoT",
+                    title: "AI Training & Data Handling Projects",
+                    category: "AI/ML",
                     image: "./assets/images/project3.jpg",
-                    description: "An interconnected home automation system allowing remote control of lights, temperature, and security devices.",
-                    technologies: ["Arduino", "Raspberry Pi", "MQTT", "Python", "Vue.js"],
+                    description: "Projects involving AI model training, data preprocessing, and machine learning applications developed during Learn2Earn Fellowship.",
+                    technologies: ["Python", "Machine Learning", "Data Analysis"],
                     link: "#",
                     github: "#"
                 }
@@ -115,9 +131,60 @@ class DataLoader {
                     title: "Modern Web Performance Optimization Techniques",
                     date: "April 25, 2026",
                     excerpt: "Discover proven strategies to improve website loading times, core web vitals, and overall user experience.",
-                    readTime": "7 min read",
+                    readTime: "7 min read",
                     image: "./assets/images/blog2.jpg"
                 }
+            ],
+            certifications: [
+                {
+                    title: "Peer Educator Training",
+                    issuer: "NYSC/UNICEF",
+                    year: "2011",
+                    description: "Training in peer education and youth mentorship programs."
+                },
+                {
+                    title: "21st Annual Student Convention",
+                    issuer: "NSChE UNIPORT",
+                    year: "2018",
+                    description: "Participation in national chemical engineering student convention."
+                },
+                {
+                    title: "Director of Socials",
+                    issuer: "NSChE FUT Minna",
+                    year: "2018–2019",
+                    description: "Leadership role in Nigerian Society of Chemical Engineers chapter at FUT Minna."
+                },
+                {
+                    title: "NYSC Discharge Certificate",
+                    issuer: "National Youth Service Corps",
+                    year: "Nov 2025",
+                    description: "Completion of mandatory national service program."
+                }
+            ],
+            volunteering: [
+                {
+                    organization: "JSS Nyanya Science Club",
+                    role: "Mentor",
+                    year: "2011–2013",
+                    description: "Mentored teenagers in academics and leadership."
+                },
+                {
+                    organization: "Fitness Campaign – NSChE FUT Minna",
+                    role: "Organizer",
+                    year: "2018–2019",
+                    description: "Organized 8+ bi-monthly fitness events."
+                },
+                {
+                    organization: "Excursion Committee – SEDI Minna",
+                    role: "Coordinator",
+                    year: "2018",
+                    description: "Coordinated 40+ students in technical excursion."
+                }
+            ],
+            memberships: [
+                "Society of Petroleum Engineers (SPE)",
+                "Nigerian Society of Chemical Engineers (NSChE)",
+                "Vision 2020"
             ]
         };
     }
@@ -186,6 +253,101 @@ class DataLoader {
                 </li>
             `).join('');
             experienceContent.innerHTML = `<li class="timeline-item"><h4 class="h4">Work Experience</h4></li>${experienceItems}`;
+        }
+        
+        // Certifications
+        const certificationsContent = document.querySelector('.resume .award-list');
+        if (certificationsContent && this.data.resume.certifications) {
+            const certificationItems = this.data.resume.certifications.map(cert => `
+                <li class="timeline-item">
+                    <h4 class="h4 timeline-item-title">${cert.title}</h4>
+                    <span class="timeline-item-date">${cert.year}</span>
+                    <p class="timeline-item-text">
+                        ${cert.issuer}<br>
+                        ${cert.description}
+                    </p>
+                </li>
+            `).join('');
+            certificationsContent.innerHTML = `<li class="timeline-item"><h4 class="h4">Certifications</h4></li>${certificationItems}`;
+        }
+        
+        // Volunteering
+        const volunteeringContent = document.querySelector('.resume .volunteering-list');
+        if (volunteeringContent && this.data.resume.volunteering) {
+            const volunteeringItems = this.data.resume.volunteering.map(vol => `
+                <li class="timeline-item">
+                    <h4 class="h4 timeline-item-title">${vol.organization}</h4>
+                    <span class="timeline-item-date">${vol.year}</span>
+                    <p class="timeline-item-text">
+                        Role: ${vol.role}<br>
+                        ${vol.description}
+                    </p>
+                </li>
+            `).join('');
+            volunteeringContent.innerHTML = `<li class="timeline-item"><h4 class="h4">Volunteering</h4></li>${volunteeringItems}`;
+        }
+        
+        // Memberships
+        const membershipsContent = document.querySelector('.resume .memberships-list');
+        if (membershipsContent && this.data.resume.memberships) {
+            const membershipItems = this.data.resume.memberships.map(mem => `<li>${mem}</li>`).join('');
+            membershipsContent.innerHTML = `<ul class="memberships-list">${membershipItems}</ul>`;
+        }
+    }
+
+        // Experience
+        const experienceContent = document.querySelector('#experience-timeline');
+        if (experienceContent) {
+            const experienceItems = this.data.resume.experience.map(exp => `
+                <li class="timeline-item">
+                    <h4 class="h4 timeline-item-title">${exp.position}</h4>
+                    <span class="timeline-item-date">${exp.year}</span>
+                    <p class="timeline-item-text">
+                        ${exp.company}<br>
+                        ${exp.description}
+                    </p>
+                </li>
+            `).join('');
+            experienceContent.innerHTML = `<li class="timeline-item"><h4 class="h4">Work Experience</h4></li>${experienceItems}`;
+        }
+        
+        // Certifications
+        const certificationsContent = document.querySelector('.resume .award-list');
+        if (certificationsContent && this.data.resume.certifications) {
+            const certificationItems = this.data.resume.certifications.map(cert => `
+                <li class="timeline-item">
+                    <h4 class="h4 timeline-item-title">${cert.title}</h4>
+                    <span class="timeline-item-date">${cert.year}</span>
+                    <p class="timeline-item-text">
+                        ${cert.issuer}<br>
+                        ${cert.description}
+                    </p>
+                </li>
+            `).join('');
+            certificationsContent.innerHTML = `<li class="timeline-item"><h4 class="h4">Certifications</h4></li>${certificationItems}`;
+        }
+        
+        // Volunteering
+        const volunteeringContent = document.querySelector('.resume .volunteering-list');
+        if (volunteeringContent && this.data.resume.volunteering) {
+            const volunteeringItems = this.data.resume.volunteering.map(vol => `
+                <li class="timeline-item">
+                    <h4 class="h4 timeline-item-title">${vol.organization}</h4>
+                    <span class="timeline-item-date">${vol.year}</span>
+                    <p class="timeline-item-text">
+                        Role: ${vol.role}<br>
+                        ${vol.description}
+                    </p>
+                </li>
+            `).join('');
+            volunteeringContent.innerHTML = `<li class="timeline-item"><h4 class="h4">Volunteering</h4></li>${volunteeringItems}`;
+        }
+        
+        // Memberships
+        const membershipsContent = document.querySelector('.resume .memberships-list');
+        if (membershipsContent && this.data.resume.memberships) {
+            const membershipItems = this.data.resume.memberships.map(mem => `<li>${mem}</li>`).join('');
+            membershipsContent.innerHTML = `<ul class="memberships-list">${membershipItems}</ul>`;
         }
     }
 
