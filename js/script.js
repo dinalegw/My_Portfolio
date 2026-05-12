@@ -47,7 +47,7 @@ class Portfolio {
         const projectItems = document.querySelectorAll('.project-item');
         const selectBtn = document.querySelector('[data-select]');
         const selectItems = document.querySelectorAll('[data-select-item]');
-        const selectValue = document.querySelector('[data-selecct-value]'); // Note: typo in original HTML
+        const selectValue = document.querySelector('[data-select-value]'); // Note: typo in original HTML
         
         // Button filters
         filterBtns.forEach(btn => {
