@@ -23,8 +23,8 @@ class PortfolioDataLoader {
     }
 
     async loadDataWithTimeout() {
-        const LOADING_TIMEOUT = 60000; // 60 seconds
-        const WARNING_TIMEOUT = 15000; // 15 seconds warning
+        const LOADING_TIMEOUT = 15000; // 15 seconds
+        const WARNING_TIMEOUT = 8000; // 8 seconds warning
         
         let warningTimeout;
         let loadingTimeout;
@@ -42,23 +42,11 @@ class PortfolioDataLoader {
                 }, LOADING_TIMEOUT);
             });
             
-            const loadPromise = this.loadAllData();
-            
-            try {
-                await Promise.race([
-                    loadPromise,
-                    timeoutPromise
-                ]);
-            } catch (error) {
-                // Allow the data loader to finish even if the timeout is reached,
-                // because local file loading may be slower in some environments.
-                if (error.message.includes('Loading timeout')) {
-                    console.warn(error.message);
-                    await loadPromise;
-                } else {
-                    throw error;
-                }
-            }
+            // Race between data loading and timeout
+            await Promise.race([
+                this.loadAllData(),
+                timeoutPromise
+            ]);
             
             // Clear timeouts if successful
             clearTimeout(warningTimeout);

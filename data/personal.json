@@ -1,6 +1,6 @@
 {
   "name": "INALEGWU OWIOCHOGBE DANIEL",
-  "title": "Chemical Engineer • Software Developer",
+  "title": "• Chemical Engineer ",
   "email": "danieloinalegwu@gmail.com",
   "phone": "+2348098032037",
   "location": "FCT Abuja, Nigeria",
@@ -20,6 +20,26 @@
       "platform": "WhatsApp",
       "url": "https://wa.me/2348098032037",
       "icon": "logo-whatsapp"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/obrian360",
+      "icon": "logo-linkedin"
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://x.com/obrian_magic?s=11",
+      "icon": "logo-twitter"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/obrian_magic?igsh=MW1nbWpmM3E5bWx6aw%3D%3D&utm_source=qr",
+      "icon": "logo-instagram"
+    },
+    {
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@obrian_magic?_r=1&_d=egfd8egdcbid1a&sec_uid=MS4wLjABAAAAbEzDLb_Zh28P0iGueNDlyhpdEnVzD3foAGAHAzcPgRR5qtW3QqGchKrULDg2reUE&share_author_id=6985125546578265094&sharer_language=en&source=h5_m&u_code=djh1jjm0d37e3c&item_author_type=1&utm_source=copy&tt_from=copy&enable_checksum=1&utm_medium=ios&share_link_id=21421864-19EA-4720-9965-3332BC01E4F5&user_id=6985125546578265094&sec_user_id=MS4wLjABAAAAbEzDLb_Zh28P0iGueNDlyhpdEnVzD3foAGAHAzcPgRR5qtW3QqGchKrULDg2reUE&social_share_type=4&ug_btm=b8727,b0&utm_campaign=client_share&share_app_id=1233",
+      "icon": "logo-tiktok"
     }
   ]
 }

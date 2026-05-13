@@ -1,0 +1,284 @@
+{
+  "personal": {
+    "name": "INALEGWU OWIOCHOGBE DANIEL",
+    "title": "Chemical Engineer \u2022 Software Developer",
+    "email": "danieloinalegwu@gmail.com",
+    "phone": "+2348098032037",
+    "location": "FCT Abuja, Nigeria",
+    "avatar": "./OBRIAN.jpeg",
+    "avatarLarge": "./OBRIAN.jpeg",
+    "bio": [
+      "Chemical Engineering graduate with expertise in software development, AI training, and project execution.",
+      "I build web applications using Go, Python, Next.js, Netlify, and Vercel while mentoring peers, leading projects, and solving technical problems with strong leadership and communication."
+    ],
+    "socialLinks": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/dinalegw",
+        "icon": "logo-github"
+      },
+      {
+        "platform": "WhatsApp",
+        "url": "https://wa.me/2348098032037",
+        "icon": "logo-whatsapp"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/obrian360",
+        "icon": "logo-linkedin"
+      },
+      {
+        "platform": "Twitter",
+        "url": "https://x.com/obrian_magic?s=11",
+        "icon": "logo-twitter"
+      },
+      {
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/obrian_magic?igsh=MW1nbWpmM3E5bWx6aw%3D%3D&utm_source=qr",
+        "icon": "logo-instagram"
+      },
+      {
+        "platform": "TikTok",
+        "url": "https://www.tiktok.com/@obrian_magic?_r=1&_d=egfd8egdcbid1a&sec_uid=MS4wLjABAAAAbEzDLb_Zh28P0iGueNDlyhpdEnVzD3foAGAHAzcPgRR5qtW3QqGchKrULDg2reUE&share_author_id=6985125546578265094&sharer_language=en&source=h5_m&u_code=djh1jjm0d37e3c&item_author_type=1&utm_source=copy&tt_from=copy&enable_checksum=1&utm_medium=ios&share_link_id=21421864-19EA-4720-9965-3332BC01E4F5&user_id=6985125546578265094&sec_user_id=MS4wLjABAAAAbEzDLb_Zh28P0iGueNDlyhpdEnVzD3foAGAHAzcPgRR5qtW3QqGchKrULDg2reUE&social_share_type=4&ug_btm=b8727,b0&utm_campaign=client_share&share_app_id=1233",
+        "icon": "logo-tiktok"
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": 1,
+      "title": "Web & Backend Development",
+      "description": "Builds modern web applications and backend systems using Go, Python, JavaScript, and cloud deployment platforms.",
+      "icon": "./assets/images/icon-backend.svg"
+    },
+    {
+      "id": 2,
+      "title": "AI Training & Data Solutions",
+      "description": "Designs AI workflows, handles data pipelines, and applies machine learning concepts to real-world problems.",
+      "icon": "./assets/images/icon-dev.svg"
+    },
+    {
+      "id": 3,
+      "title": "GitHub & Deployment",
+      "description": "Maintains GitHub workflows, automates deployments, and delivers reliable applications on Netlify and Vercel.",
+      "icon": "./assets/images/icon-app.svg"
+    },
+    {
+      "id": 4,
+      "title": "Project Leadership & Mentorship",
+      "description": "Leads projects, mentors learners, and executes solutions with strong communication and collaboration.",
+      "icon": "./assets/images/icon-design.svg"
+    }
+  ],
+  "awards": [
+    {
+      "id": 1,
+      "title": "Director of Socials \u2014 NSChE FUT Minna",
+      "description": "Organized social and technical events, improving student engagement and participation by over 100%.",
+      "image": "./assets/images/icon-design.svg",
+      "imageClass": ""
+    },
+    {
+      "id": 2,
+      "title": "Science Club Project Leadership",
+      "description": "Led student-led initiatives as Director of Projects for JSS Nyanya and GDSS Karu science clubs.",
+      "image": "./assets/images/icon-backend.svg",
+      "imageClass": ""
+    },
+    {
+      "id": 3,
+      "title": "NYSC Discharge Certificate",
+      "description": "Successfully completed national service with strong technical and community contributions.",
+      "image": "./assets/images/icon-dev.svg",
+      "imageClass": ""
+    }
+  ],
+  "skills": {
+    "aboutSkills": [
+      "Go",
+      "Python",
+      "JavaScript",
+      "Next.js",
+      "GitHub",
+      "Netlify",
+      "Vercel",
+      "AI training",
+      "Data analysis",
+      "Problem solving",
+      "Leadership",
+      "Team collaboration"
+    ],
+    "resumeSkills": [
+      "Go",
+      "Python",
+      "JavaScript",
+      "Next.js",
+      "GitHub",
+      "Netlify",
+      "Vercel",
+      "AI training",
+      "Data analysis",
+      "Problem solving",
+      "Leadership",
+      "Communication"
+    ]
+  },
+  "experience": [
+    {
+      "id": 1,
+      "position": "AI Fellowship Trainee",
+      "company": "Learn2Earn Fellowship",
+      "startDate": "2026-01-01",
+      "endDate": "present",
+      "achievements": [
+        "Trained in AI, data handling, and software engineering.",
+        "Applied machine learning concepts to real-world projects.",
+        "Mentored peers and presented technical solutions.",
+        "Collaborated with teams to deliver AI-driven applications under tight deadlines."
+      ]
+    },
+    {
+      "id": 2,
+      "position": "Software Developer / Project Contributor",
+      "company": "Freelance & Fellowship Programs",
+      "startDate": "2025-01-01",
+      "endDate": "present",
+      "achievements": [
+        "Built and deployed web applications using Go, Next.js, Netlify, and Vercel.",
+        "Delivered AI-driven projects with strong user experience and performance.",
+        "Optimized workflows to improve application reliability and development speed.",
+        "Maintained open-source projects and GitHub repositories."
+      ]
+    },
+    {
+      "id": 3,
+      "position": "Industrial Trainee (SIWES)",
+      "company": "Chanchaga Water Works",
+      "startDate": "2021-05-01",
+      "endDate": "2021-10-31",
+      "achievements": [
+        "Conducted product research and competitor analysis.",
+        "Produced technical documentation and client-focused reports.",
+        "Supported operational projects with engineering and process insights."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "institution": "Federal University of Technology, Minna",
+      "degree": "Bachelor of Engineering in Chemical Engineering",
+      "period": "2016 \u2014 2024",
+      "courses": [
+        "Process Control and Instrumentation",
+        "Chemical Reaction Engineering",
+        "Thermodynamics",
+        "Engineering Mathematics",
+        "Programming for Engineers"
+      ]
+    },
+    {
+      "id": 2,
+      "institution": "Government Day Secondary School, Karu",
+      "degree": "WASSCE",
+      "period": "2016",
+      "courses": []
+    }
+  ],
+  "certifications": [
+    {
+      "id": 1,
+      "name": "Peer Educator Training",
+      "issuer": "NYSC / UNICEF",
+      "issueDate": "2011",
+      "credentialId": "N/A",
+      "image": "./assets/images/icon-dev.svg",
+      "imageClass": ""
+    },
+    {
+      "id": 2,
+      "name": "21st Annual Student Convention",
+      "issuer": "NSChE UNIPORT",
+      "issueDate": "2018",
+      "credentialId": "N/A",
+      "image": "./assets/images/icon-backend.svg",
+      "imageClass": ""
+    },
+    {
+      "id": 3,
+      "name": "Director of Socials",
+      "issuer": "NSChE FUT Minna",
+      "issueDate": "2018 \u2014 2019",
+      "credentialId": "N/A",
+      "image": "./assets/images/icon-design.svg",
+      "imageClass": ""
+    },
+    {
+      "id": 4,
+      "name": "NYSC Discharge Certificate",
+      "issuer": "NYSC",
+      "issueDate": "Nov 2025",
+      "credentialId": "N/A",
+      "image": "./assets/images/icon-app.svg",
+      "imageClass": ""
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "BLACKSAUCE",
+      "category": "web2",
+      "description": "A portfolio project showcasing web development using modern JavaScript and GitHub deployment.",
+      "image": "./assets/images/projects/automotive.png",
+      "url": "https://github.com/dinalegw/BLACKSAUCE",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "GO-TEXT-EDITOR-PROJECT",
+      "category": "web2",
+      "description": "A Go-based text editor project focused on local editing performance and developer productivity.",
+      "image": "./assets/images/projects/invoice.png",
+      "url": "https://github.com/dinalegw/GO-TEXT-EDITOR-PROJECT",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "MY-EXAM-SITE",
+      "category": "web2",
+      "description": "An exam management site showcasing secure assessments and user-friendly interfaces.",
+      "image": "./assets/images/projects/blog.png",
+      "url": "https://github.com/dinalegw/MY-EXAM-SITE",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "SAFE-EXAM-BROWSER",
+      "category": "web2",
+      "description": "A secure exam browser experience built for controlled testing environments.",
+      "image": "./assets/images/projects/smartfarm.png",
+      "url": "https://github.com/dinalegw/SAFE-EXAM-BROWSER",
+      "featured": false
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "title": "Building a Go Text Editor",
+      "category": "Go",
+      "description": "A deep dive into developing a fast and reliable text editor with Go.",
+      "image": "./assets/images/blogs/blog-1.png",
+      "url": "https://github.com/dinalegw/GO-TEXT-EDITOR-PROJECT",
+      "date": "2026-04-10"
+    },
+    {
+      "id": 2,
+      "title": "Creating a Secure Exam Browser",
+      "category": "Web",
+      "description": "How I built a secure browser for exam delivery and controlled testing.",
+      "image": "./assets/images/blogs/blog-2.png",
+      "url": "https://github.com/dinalegw/SAFE-EXAM-BROWSER",
+      "date": "2026-03-15"
+    }
+  ]
+}

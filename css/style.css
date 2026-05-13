@@ -323,9 +323,21 @@ main {
   gap: 15px;
 }
 
-.avatar-box {
+..avatar-box {
+  width: 90px;
+  height: 90px;
   background: var(--bg-gradient-onyx);
-  border-radius: 20px;
+  border-radius: 50%;
+  overflow: hidden;
+  box-shadow: var(--shadow-2);
+}
+
+.avatar-box img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
 }
 
 .info-content .name {
@@ -344,14 +356,6 @@ main {
   width: contain;
   padding: 3px 12px;
   border-radius: 8px;
-}
-
-.info-content .email {
-  color: var(--white-2);
-  font-size: 0.95rem;
-  letter-spacing: 0;
-  margin-top: 10px;
-  word-break: break-all;
 }
 
 .info_more-btn {
