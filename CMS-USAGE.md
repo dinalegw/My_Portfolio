@@ -26,8 +26,8 @@
 1. Open `cms.html` in your browser
 2. Click the "⚙️ Settings" button
 3. Fill in:
-   - **GitHub Username/Organization**: Your GitHub username (e.g., `jvcbyte`)
-   - **Repository Name**: Your repository name (e.g., `jvcbyte.github.io`)
+   - **GitHub Username/Organization**: Your GitHub username (e.g., `dinalegw`)
+   - **Repository Name**: Your repository name (e.g., `dinalegw.github.io`)
    - **Branch**: Usually `main` or `master`
    - **GitHub Personal Access Token**: Paste the token you created
 4. Click "Save Settings"
