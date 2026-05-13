@@ -4,7 +4,7 @@
     "title": "BLACKSAUCE",
     "category": "web2",
     "description": "A portfolio project showcasing web development using modern JavaScript and GitHub deployment.",
-    "image": "./assets/images/projects/automotive.png",
+    "image": "./assets/images/projects/abstract-project-1.svg",
     "url": "https://github.com/dinalegw/BLACKSAUCE",
     "featured": true
   },
@@ -13,7 +13,7 @@
     "title": "GO-TEXT-EDITOR-PROJECT",
     "category": "web2",
     "description": "A Go-based text editor project focused on local editing performance and developer productivity.",
-    "image": "./assets/images/projects/invoice.png",
+    "image": "./assets/images/projects/abstract-project-2.svg",
     "url": "https://github.com/dinalegw/GO-TEXT-EDITOR-PROJECT",
     "featured": true
   },
@@ -22,7 +22,7 @@
     "title": "MY-EXAM-SITE",
     "category": "web2",
     "description": "An exam management site showcasing secure assessments and user-friendly interfaces.",
-    "image": "./assets/images/projects/blog.png",
+    "image": "./assets/images/projects/abstract-project-3.svg",
     "url": "https://github.com/dinalegw/MY-EXAM-SITE",
     "featured": true
   },
@@ -31,7 +31,7 @@
     "title": "SAFE-EXAM-BROWSER",
     "category": "web2",
     "description": "A secure exam browser experience built for controlled testing environments.",
-    "image": "./assets/images/projects/smartfarm.png",
+    "image": "./assets/images/projects/abstract-project-4.svg",
     "url": "https://github.com/dinalegw/SAFE-EXAM-BROWSER",
     "featured": false
   }
