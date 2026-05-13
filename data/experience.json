@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "position": "AI Fellowship Trainee",
+    "company": "Learn2Earn Fellowship",
+    "startDate": "2026-01-01",
+    "endDate": "present",
+    "achievements": [
+      "Trained in AI, data handling, and software engineering.",
+      "Applied machine learning concepts to real-world projects.",
+      "Mentored peers and presented technical solutions.",
+      "Collaborated with teams to deliver AI-driven applications under tight deadlines."
+    ]
+  },
+  {
+    "id": 2,
+    "position": "Software Developer / Project Contributor",
+    "company": "Freelance & Fellowship Programs",
+    "startDate": "2025-01-01",
+    "endDate": "present",
+    "achievements": [
+      "Built and deployed web applications using Go, Next.js, Netlify, and Vercel.",
+      "Delivered AI-driven projects with strong user experience and performance.",
+      "Optimized workflows to improve application reliability and development speed.",
+      "Maintained open-source projects and GitHub repositories."
+    ]
+  },
+  {
+    "id": 3,
+    "position": "Industrial Trainee (SIWES)",
+    "company": "Chanchaga Water Works",
+    "startDate": "2021-05-01",
+    "endDate": "2021-10-31",
+    "achievements": [
+      "Conducted product research and competitor analysis.",
+      "Produced technical documentation and client-focused reports.",
+      "Supported operational projects with engineering and process insights."
+    ]
+  }
+]

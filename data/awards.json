@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Director of Socials — NSChE FUT Minna",
+    "description": "Organized social and technical events, improving student engagement and participation by over 100%.",
+    "image": "./assets/images/icon-design.svg",
+    "imageClass": ""
+  },
+  {
+    "id": 2,
+    "title": "Science Club Project Leadership",
+    "description": "Led student-led initiatives as Director of Projects for JSS Nyanya and GDSS Karu science clubs.",
+    "image": "./assets/images/icon-backend.svg",
+    "imageClass": ""
+  },
+  {
+    "id": 3,
+    "title": "NYSC Discharge Certificate",
+    "description": "Successfully completed national service with strong technical and community contributions.",
+    "image": "./assets/images/icon-dev.svg",
+    "imageClass": ""
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Building a Go Text Editor",
+    "category": "Go",
+    "description": "A deep dive into developing a fast and reliable text editor with Go.",
+    "image": "./assets/images/blogs/blog-1.png",
+    "url": "https://github.com/dinalegw/GO-TEXT-EDITOR-PROJECT",
+    "date": "2026-04-10"
+  },
+  {
+    "id": 2,
+    "title": "Creating a Secure Exam Browser",
+    "category": "Web",
+    "description": "How I built a secure browser for exam delivery and controlled testing.",
+    "image": "./assets/images/blogs/blog-2.png",
+    "url": "https://github.com/dinalegw/SAFE-EXAM-BROWSER",
+    "date": "2026-03-15"
+  }
+]

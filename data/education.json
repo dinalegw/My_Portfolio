@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "institution": "Federal University of Technology, Minna",
+    "degree": "Bachelor of Engineering in Chemical Engineering",
+    "period": "2016 — 2024",
+    "courses": [
+      "Process Control and Instrumentation",
+      "Chemical Reaction Engineering",
+      "Thermodynamics",
+      "Engineering Mathematics",
+      "Programming for Engineers"
+    ]
+  },
+  {
+    "id": 2,
+    "institution": "Government Day Secondary School, Karu",
+    "degree": "WASSCE",
+    "period": "2016",
+    "courses": []
+  }
+]

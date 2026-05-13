@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Peer Educator Training",
+    "issuer": "NYSC / UNICEF",
+    "issueDate": "2011",
+    "credentialId": "N/A",
+    "image": "./assets/images/icon-dev.svg",
+    "imageClass": ""
+  },
+  {
+    "id": 2,
+    "name": "21st Annual Student Convention",
+    "issuer": "NSChE UNIPORT",
+    "issueDate": "2018",
+    "credentialId": "N/A",
+    "image": "./assets/images/icon-backend.svg",
+    "imageClass": ""
+  },
+  {
+    "id": 3,
+    "name": "Director of Socials",
+    "issuer": "NSChE FUT Minna",
+    "issueDate": "2018 — 2019",
+    "credentialId": "N/A",
+    "image": "./assets/images/icon-design.svg",
+    "imageClass": ""
+  },
+  {
+    "id": 4,
+    "name": "NYSC Discharge Certificate",
+    "issuer": "NYSC",
+    "issueDate": "Nov 2025",
+    "credentialId": "N/A",
+    "image": "./assets/images/icon-app.svg",
+    "imageClass": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Web & Backend Development",
+    "description": "Builds modern web applications and backend systems using Go, Python, JavaScript, and cloud deployment platforms.",
+    "icon": "./assets/images/icon-backend.svg"
+  },
+  {
+    "id": 2,
+    "title": "AI Training & Data Solutions",
+    "description": "Designs AI workflows, handles data pipelines, and applies machine learning concepts to real-world problems.",
+    "icon": "./assets/images/icon-dev.svg"
+  },
+  {
+    "id": 3,
+    "title": "GitHub & Deployment",
+    "description": "Maintains GitHub workflows, automates deployments, and delivers reliable applications on Netlify and Vercel.",
+    "icon": "./assets/images/icon-app.svg"
+  },
+  {
+    "id": 4,
+    "title": "Project Leadership & Mentorship",
+    "description": "Leads projects, mentors learners, and executes solutions with strong communication and collaboration.",
+    "icon": "./assets/images/icon-design.svg"
+  }
+]

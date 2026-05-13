@@ -1,0 +1,25 @@
+{
+  "name": "INALEGWU OWIOCHOGBE DANIEL",
+  "title": "Chemical Engineer • Software Developer",
+  "email": "danieloinalegwu@gmail.com",
+  "phone": "+2348098032037",
+  "location": "FCT Abuja, Nigeria",
+  "avatar": "./OBRIAN.jpeg",
+  "avatarLarge": "./OBRIAN.jpeg",
+  "bio": [
+    "Chemical Engineering graduate with expertise in software development, AI training, and project execution.",
+    "I build web applications using Go, Python, Next.js, Netlify, and Vercel while mentoring peers, leading projects, and solving technical problems with strong leadership and communication."
+  ],
+  "socialLinks": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/dinalegw",
+      "icon": "logo-github"
+    },
+    {
+      "platform": "WhatsApp",
+      "url": "https://wa.me/2348098032037",
+      "icon": "logo-whatsapp"
+    }
+  ]
+}
