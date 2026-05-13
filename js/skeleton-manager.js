@@ -829,7 +829,7 @@ class SkeletonStateManager {
         const selectors = {
             about: '.about-text',
             services: '.service-list',
-            awards: '.award-list',
+            awards: '.award-list:nth-of-type(2)',
             skills: '.skills-list',
             timeline: '.timeline-list',
             projects: '.project-list',

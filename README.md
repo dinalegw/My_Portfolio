@@ -1,6 +1,10 @@
-# Portfolio Website with CMS
+# INALEGWU OWIOCHOGBE DANIEL - Portfolio Website
 
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript, featuring a comprehensive Content Management System (CMS) for easy content updates.
+
+## About Me
+
+Chemical Engineering graduate with expertise in software development, AI training, and project execution. I build web applications using Go, Python, Next.js, Netlify, and Vercel while mentoring peers, leading projects, and solving technical problems with strong leadership and communication.
 
 ## Features
 
@@ -46,6 +50,14 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript, fea
 ### 1. View the Portfolio
 
 Simply open `index.html` in your web browser to view the portfolio website.
+
+Or run a local server:
+
+```bash
+python3 -m http.server 8000
+```
+
+Then visit `http://localhost:8000`
 
 ## CMS Features
 
